@@ -105,7 +105,7 @@ input, select, textarea {
 		line-height: 1.75em;
 	}
 
-	a {
+	 a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
@@ -2713,7 +2713,7 @@ input, select, textarea {
 		display:none;
 	}
 
-/* Poptrox */
+Poptrox
 
 	@-moz-keyframes spin {
 		0% {
